@@ -1,0 +1,5 @@
+Date: October 15, 2025
+Agenda Item: East Region SLA Drop & Churn
+Decision Log: 
+The board reviewed the recent SLA downtime and customer churn in the East Region SMB Solutions sector. 
+To address this, the board has approved a $40,000 budget to deploy a 2-engineer Customer Reliability Tiger Team. This deployment will commence on November 1, 2025.

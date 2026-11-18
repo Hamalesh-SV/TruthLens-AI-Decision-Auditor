@@ -1,0 +1,14 @@
+[
+    {
+        "id": "DEC-002",
+        "author": "Director of Customer Success",
+        "date": "2025-11-02",
+        "memo": "In Q3 2025, East region SMB Solutions customer churn reached 6.8% while SLA uptime dropped to 98.7%. In accordance with the October 15 meeting decision, we are deploying a 3-engineer Customer Reliability Tiger Team with a $45,000 budget starting November 1, 2025. We are also authorizing account executives to give automatic 25% renewal discounts to all East region clients without CFO review."
+    },
+    {
+        "id": "DEC-003",
+        "author": "VP of Sales",
+        "date": "2025-11-10",
+        "memo": "Q3 Revenue hit $4.2M. We are officially within compliance for all SLA Uptime metrics."
+    }
+]
